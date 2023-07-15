@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Classical Mechanics, the Realism Overhaul mod suite for Kerbal Space Program, and Calculus
 - 📫 How to reach me:
 
-Discord: @Kraken#8165
+Discord: @chat_kraken
 Twitter: @TweetKraken
 Steam: GamingKraken
 Reddit: u/Nerd_Kraken
