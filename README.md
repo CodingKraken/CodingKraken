@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @CodingKraken
-- 👀 I’m interested in Space, Rocket Science, Bot development, and Game Development
-- 🌱 I’m currently learning Classical Mechanics, the Realism Overhaul mod suite for Kerbal Space Program, and Calculus
-- 📫 How to reach me:
+Hi, I’m Tristan Eggenberger, a Pure Mathematics and Physics dual major at the University of New Mexico.
+I’m interested in Physics, Number theory, Algebra, Analysis, Computer Science, and occasionally I like to dip my toes in Game Development too
 
+How to reach me:
+email: tristaneggenberger204@gmail.com
 Discord: @chat_kraken
-Twitter: @TweetKraken
-Steam: GamingKraken
-Reddit: u/Nerd_Kraken
 
 <!---
 CodingKraken/CodingKraken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
